@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naikviraj&label=Profile%20views&color=0e75b6&style=flat" alt="naikviraj" /> </p>
 
-- 🌱 I’m currently learning **React, Flutter, Bootstrap, Node.js and Kotlin**
+- 🌱 I’m currently learning **React, Bootstrap, Node.js**
 
 - 📫 How to reach me **naikviraj128@gmail.com**
 
