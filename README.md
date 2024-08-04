@@ -25,7 +25,6 @@ I'm a passionate UI/UX designer and frontend developer with a keen eye for detai
 - Advanced React patterns and hooks
 - Next.js for server-side rendering and static site generation
 - Enhancing user interactions with animations and transitions
-- Improving my skills in ASP.NET Core and Entity Framework Core
 
 ## 🌐 Personal Projects
 - **Pokedex Application:** A responsive React app utilizing the PokeAPI to search and display Pokémon with detailed stats.
