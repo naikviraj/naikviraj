@@ -6,13 +6,42 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naikviraj&label=Profile%20views&color=0e75b6&style=flat" alt="naikviraj" /> </p>
 
-- 🌱 I’m currently learning **React, Bootstrap, Node.js**
 
-- 📫 How to reach me **naikviraj128@gmail.com**
+I'm a passionate UI/UX designer and frontend developer with a keen eye for detail and a love for creating intuitive, responsive, and beautiful web experiences. My journey in web development started with a curiosity for how websites work, and it has blossomed into a fulfilling career where I get to blend creativity with technology every day.
+
+## 🔧 Technologies & Tools
+- **Frontend:** React, Next.js, HTML, CSS, JavaScript, Tailwind CSS
+- **Design:** Figma, Adobe XD, Gimp
+- **Version Control:** Git, GitHub
+- **Other:** C/C++, Python, RESTful APIs
+
+## 🌟 What I Do
+- **UI/UX Design:** Crafting user-centric designs that are both visually appealing and highly functional.
+- **Frontend Development:** Bringing designs to life with clean, efficient code, ensuring cross-browser compatibility and responsiveness.
+- **Responsive Design:** Making sure that web applications look and perform great on any device, from desktops to mobile phones.
+- **Collaboration:** Working closely with backend developers, project managers, and other stakeholders to deliver high-quality products.
+
+## 📚 Currently Learning
+- Advanced React patterns and hooks
+- Next.js for server-side rendering and static site generation
+- Enhancing user interactions with animations and transitions
+- Improving my skills in ASP.NET Core and Entity Framework Core
+
+## 🌐 Personal Projects
+- **Pokedex Application:** A responsive React app utilizing the PokeAPI to search and display Pokémon with detailed stats.
+- **News Management System:** A final year project involving the creation of a comprehensive news management system. (This project is currently under development)
+
+## 🎓 Education
+- **B.Sc. in Computer Engineering**
+
+## 💬 Let's Connect!
+- **Email:** [naikviraj128@gmail.com](mailto:naikviraj128@gmail.com)
+- **LinkedIn:** [Viraj Naik](https://www.linkedin.com/in/virajnaik128/)
+
 
 - ⚡ Fun fact **The average smartphone today has more computing power than the computers used for the Apollo 11 moon landing.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials :</h3>
 <p align="left">
 <a href="https://twitter.com/naikviraj128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naikviraj128" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/virajnaik128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="virajnaik128" height="30" width="40" /></a>
