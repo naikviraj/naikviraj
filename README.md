@@ -31,8 +31,6 @@ I'm a passionate UI/UX designer and frontend developer with a keen eye for detai
 - **Pokedex Application:** A responsive React app utilizing the PokeAPI to search and display Pokémon with detailed stats.
 - **News Management System:** A final year project involving the creation of a comprehensive news management system. (This project is currently under development)
 
-## 🎓 Education
-- **B.Sc. in Computer Engineering**
 
 ## 💬 Let's Connect!
 - **Email:** [naikviraj128@gmail.com](mailto:naikviraj128@gmail.com)
