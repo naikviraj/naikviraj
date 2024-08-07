@@ -2,7 +2,7 @@
 <h1 align="center">Hello! 👋, I'm Viraj Naik</h1>
 <h3 align="center">A Passionate Web Developer from India</h3>
 
-<img align="right" alt="coding img" width="400" height="200" src="https://i.pinimg.com/originals/a4/51/39/a451393c169a91586312551109361064.gif">
+<img align="right" alt="coding img" width="200" height="200" src="https://i.pinimg.com/originals/a4/51/39/a451393c169a91586312551109361064.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naikviraj&label=Profile%20views&color=0e75b6&style=flat" alt="naikviraj" /> </p>
 
