@@ -7,7 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naikviraj&label=Profile%20views&color=0e75b6&style=flat" alt="naikviraj" /> </p>
 
 
-I'm a passionate UI/UX designer and frontend developer with a keen eye for detail and a love for creating intuitive, responsive, and beautiful web experiences. My journey in web development started with a curiosity for how websites work, and it has blossomed into a fulfilling career where I get to blend creativity with technology every day.
+I'm a passionate UI/UX designer and frontend developer with a keen eye for detail and a love for creating intuitive, responsive, and beautiful web experiences. My journey in web development started with a curiosity for how websites work, and it has   blossomed into a fulfilling career where I get to blend creativity with technology every day.
+
 
 ## 🔧 Technologies & Tools
 - **Frontend:** React, Next.js, HTML, CSS, JavaScript, Tailwind CSS
