@@ -28,7 +28,7 @@ I'm a passionate UI/UX designer and frontend developer with a keen eye for detai
 
 ## 🌐 Personal Projects
 - **Pokedex Application:** A responsive React app utilizing the PokeAPI to search and display Pokémon with detailed stats.
-- **News Management System:** A final year project involving the creation of a comprehensive news management system. (This project is currently under development)
+- **Lung Cancer detection system:** A final year project involving the detection of lung cancers. (This project is currently under development)
 
 
 ## 💬 Let's Connect!
