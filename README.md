@@ -20,11 +20,7 @@ I'm a passionate UI/UX designer and frontend developer with a keen eye for detai
 - **Frontend Development:** Bringing designs to life with clean, efficient code, ensuring cross-browser compatibility and responsiveness.
 - **Responsive Design:** Making sure that web applications look and perform great on any device, from desktops to mobile phones.
 - **Collaboration:** Working closely with backend developers, project managers, and other stakeholders to deliver high-quality products.
-
-## 📚 Currently Learning
-- Advanced React patterns and hooks
-- Next.js for server-side rendering and static site generation
-- Enhancing user interactions with animations and transitions
+- 
 
 ## 🌐 Personal Projects
 - **Pokedex Application:** A responsive React app utilizing the PokeAPI to search and display Pokémon with detailed stats.
